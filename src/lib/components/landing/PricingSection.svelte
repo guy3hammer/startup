@@ -105,7 +105,12 @@
 		</div> 	
 
 		<div class="flex w-full items-center justify-center space-x-2"> <Switch 
-				on:click={() => {interval = interval === 'month' ? 'year' : 'month';}}id="interval"/>
+				on:click={
+				() => {
+					interval = interval === 'month' ? 'year' : 'month';
+					}
+				}id="interval"
+				/>
 			<span>Annual</span>
 			<span
 				//class="inline-block whitespace-nowrap rounded-full bg-black px-2.5 py-1 text-[11px] font-semibold uppercase leading-5 tracking-wide text-white dark:bg-white dark:text-black"
