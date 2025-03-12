@@ -50,7 +50,7 @@
 	<div class="py-14">
 		<div class="mx-auto max-w-screen-xl px-4 md:px-8">
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				TAILOR STATE OF THE ART OSAI REASONING MODELS
+				TAILOR <i>NEW GEN</i> OSAI REASONING MODELS
 			</h2>
 			<h2 class="text-center text-sm font-semibold text-gray-600">
 				FOR YOUR SPECIFIC USE CASES AND DATA
@@ -112,29 +112,7 @@
 </section>
 
 
-<section id="hero" class="relative mx-auto mt-32 max-w-7xl px-6 text-center md:px-8">
-
-	<h2
-		class="-translate-y-4 animate-fade-in text-balance bg-gradient-to-br from-black from-30% to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent opacity-0 [--animation-delay:200ms] dark:from-white dark:to-white/40 sm:text-6xl md:text-7xl lg:text-8xl"
-	>
-		Embrace the <i>Open Source</i> AI Revolution
-				
-	</h2>
-	<p
-		class="mb-12 -translate-y-4 animate-fade-in text-balance text-lg tracking-tight text-gray-400 opacity-0 [--animation-delay:400ms] md:text-xl"
-	>
-		Protect your data, escape lock-in, and empower your team
-		<br class="hidden md:block" />
-		{' '}
-		with cutting-edge AI use cases <i>for pennies on the dollar</i>.
-	</p>
-<AnimatedShinyText class="inline-flex items-center justify-center">
-			<span>✨ Schedule Free Consultation</span>
-			{' '}
-			<ArrowRightIcon
-				class="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5"
-			/>
-		</AnimatedShinyText>	
+<section id="hero" class="relative mx-auto mt-32 max-w-7xl px-6 text-center md:px-8">	
 
 	<div
 		use:inview={{
