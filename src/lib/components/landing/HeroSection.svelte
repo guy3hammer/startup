@@ -32,7 +32,7 @@
 		Protect your data, escape lock-in, and empower your team
 		<br class="hidden md:block" />
 		{' '}
-		with cutting-edge AI use cases for 27x lower cost.
+		with cutting-edge AI use cases for pennies on the dollar.
 	</p>
 <AnimatedShinyText class="inline-flex items-center justify-center">
 			<span>✨ Schedule Free Consultation</span>
