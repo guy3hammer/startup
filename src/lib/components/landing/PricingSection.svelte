@@ -93,7 +93,7 @@
 <section id="pricing">
 	<div class="mx-auto flex max-w-screen-xl flex-col gap-8 px-4 py-14 md:px-8">
 		<div class="mx-auto max-w-5xl text-center">
-			//<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">SERVICES</h4>
+			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Pricing</h4>
 
 			<h2 class="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
 				Flexible Service Models 
@@ -104,12 +104,12 @@
 			</p>
 		</div> 	
 
-		//<div class="flex w-full items-center justify-center space-x-2"> <Switch 
-				//on:click={() => {interval = interval === 'month' ? 'year' : 'month';}}id="interval"/>
-			//<span>Annual</span>
-			//<span
+		<div class="flex w-full items-center justify-center space-x-2"> <Switch 
+				on:click={() => {interval = interval === 'month' ? 'year' : 'month';}}id="interval"/>
+			<span>Annual</span>
+			<span
 				//class="inline-block whitespace-nowrap rounded-full bg-black px-2.5 py-1 text-[11px] font-semibold uppercase leading-5 tracking-wide text-white dark:bg-white dark:text-black"
-			//>2 MONTHS FREE ✨</span></div>
+			>2 MONTHS FREE ✨</span></div>
 
 		<div class="mx-auto grid w-full flex-col justify-center gap-4 sm:grid-cols-2 lg:grid-cols-4">
 			{#each productPrices as price, id}
