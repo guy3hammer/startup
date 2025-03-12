@@ -18,14 +18,12 @@
 
 <section id="hero" class="relative mx-auto mt-32 max-w-7xl px-6 text-center md:px-8">
 
-	<h1
+	<h2
 		class="-translate-y-4 animate-fade-in text-balance bg-gradient-to-br from-black from-30% to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent opacity-0 [--animation-delay:200ms] dark:from-white dark:to-white/40 sm:text-6xl md:text-7xl lg:text-8xl"
 	>
-		Helping companies embrace the 
-		<br class="hidden md:block" />
-		{' '}
-		<i>Open Source</i> AI Revolution
-	</h1>
+		Embrace the <i>Open Source</i> AI Revolution
+				
+	</h2>
 	<p
 		class="mb-12 -translate-y-4 animate-fade-in text-balance text-lg tracking-tight text-gray-400 opacity-0 [--animation-delay:400ms] md:text-xl"
 	>
