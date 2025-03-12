@@ -50,10 +50,10 @@
 	<div class="py-14">
 		<div class="mx-auto max-w-screen-xl px-4 md:px-8">
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				TAILOR <i>NEW GEN</i> OSAI REASONING MODELS
+				TAILOR THE <i>NEW GEN</i> OSAI REASONING MODELS
 			</h2>
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				FOR YOUR SPECIFIC USE CASES AND DATA
+				FOR YOUR SPECIFIC NEEDS AND DATA TYPES
 			</h2>
 			<div class="mt-6">
 				<ul
