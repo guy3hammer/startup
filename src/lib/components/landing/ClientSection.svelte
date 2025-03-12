@@ -10,7 +10,10 @@
 	<div class="py-14">
 		<div class="mx-auto max-w-screen-xl px-4 md:px-8">
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				TAILOR STATE OF THE ART OSAI REASONING MODELS /nFOR YOUR SPECIFIC USE CASES AND DATA
+				TAILOR STATE OF THE ART OSAI REASONING MODELS
+			</h2>
+			<h2 class="text-center text-sm font-semibold text-gray-600">
+				FOR YOUR SPECIFIC USE CASES AND DATA
 			</h2>
 			<div class="mt-6">
 				<ul
