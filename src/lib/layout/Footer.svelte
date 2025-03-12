@@ -75,10 +75,7 @@
 
 <AnimatedShinyText class="inline-flex items-center justify-center">
 			<span>✨ Introducing Svee UI Template</span>
-			{' '}
-			<ArrowRightIcon
-				class="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5"
-			/>
+			
 		</AnimatedShinyText>
 
 		<div class="gap-4 p-4 px-8 py-16 sm:pb-16 md:flex md:justify-between">
