@@ -51,7 +51,7 @@
 		class="relative mt-32 animate-fade-up opacity-0 [--animation-delay:400ms] [perspective:2000px] after:absolute after:inset-0 after:z-50 after:[background:linear-gradient(to_top,hsl(var(--background))_30%,transparent)]"
 	>
 		<h2 class="text-center text-sm font-semibold text-gray-600">
-				TRUSTED BY TEAMS FROM AROUND THE WORLD
+				CREATE POWERFUL FLEXIBLE AUTOMATED WORKFLOWS IN SECONDS
 			</h2>
 		<div
 			class="rounded-xl border border-white/10 bg-white bg-opacity-[0.01] before:absolute before:bottom-1/2 before:left-0 before:top-0 before:size-full before:opacity-0 before:[background-image:linear-gradient(to_bottom,var(--color-one),var(--color-one),transparent_40%)] before:[filter:blur(180px)] {inView
