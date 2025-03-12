@@ -7,8 +7,8 @@
 	import { inview } from 'svelte-inview';
 
 	// Images
-	import HeroDarkImg from '$lib/imgs/hero-dark.svg';
-	import HeroLightImg from '$lib/imgs/hero-light.svg';
+	import HeroDarkImg from '$lib/imgs/hero-dark.png';
+	import HeroLightImg from '$lib/imgs/hero-light.png';
 	let inView = false;
 	const handleChange = ({ detail }: CustomEvent<ObserverEventDetails>) => {
 		// console.log(detail);
