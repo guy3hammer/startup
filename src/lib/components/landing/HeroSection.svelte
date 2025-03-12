@@ -30,7 +30,7 @@
 		Protect your data, escape lock-in, and empower your team
 		<br class="hidden md:block" />
 		{' '}
-		with cutting-edge AI use cases for pennies on the dollar.
+		with cutting-edge AI use cases <i>for pennies on the dollar</i>.
 	</p>
 <AnimatedShinyText class="inline-flex items-center justify-center">
 			<span>✨ Schedule Free Consultation</span>
