@@ -5,6 +5,11 @@
 	import Button from '$lib/components/ui/button/button.svelte';
 	import type { ObserverEventDetails } from 'svelte-inview';
 	import { inview } from 'svelte-inview';
+	import GoogleSvg from '$lib/imgs/Google.svg';
+	import GitHubSvg from '$lib/imgs/GitHub.svg';
+	import UberSvg from '$lib/imgs/Uber.svg';
+	import MicrosoftSvg from '$lib/imgs/Microsoft.svg';
+	import NotionSvg from '$lib/imgs/Notion.svg';
 
 	// Images
 	import HeroDarkImg from '$lib/imgs/hero-dark.png';
