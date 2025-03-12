@@ -24,7 +24,7 @@
 		Helping companies embrace the 
 		<br class="hidden md:block" />
 		{' '}
-		Open Source AI Revolution
+		<i>Open Source</i> AI Revolution
 	</h1>
 	<p
 		class="mb-12 -translate-y-4 animate-fade-in text-balance text-lg tracking-tight text-gray-400 opacity-0 [--animation-delay:400ms] md:text-xl"
