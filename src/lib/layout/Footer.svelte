@@ -1,6 +1,7 @@
 <script>
 	import DiscordSvg from '$lib/imgs/discord.svg';
 	import TwitterSvg from '$lib/imgs/x.svg';
+	import AnimatedShinyText from '$lib/components/magic/AnimatedShinyText/AnimatedShinyText.svelte';
 
 	const footerNavs = [
 		{
@@ -69,6 +70,12 @@
 </script>
 
 <footer>
+<div>
+<AnimatedShinyText class="inline-flex items-center justify-center">
+			<span>“If you do not change the direction, you may end up where you are heading.” Lao Tzu</span>
+		</AnimatedShinyText>
+	</div>
+
 	<div class="mx-auto w-full max-w-screen-xl xl:pb-2">
 		<div class="gap-4 p-4 px-8 py-16 sm:pb-16 md:flex md:justify-between">
 			<div class="mb-12 flex flex-col gap-4">
