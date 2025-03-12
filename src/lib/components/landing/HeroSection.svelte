@@ -17,7 +17,9 @@
 </script>
 
 <section id="hero" class="relative mx-auto mt-32 max-w-7xl px-6 text-center md:px-8">
-
+	<h2 class="text-center text-sm font-semibold text-gray-600">
+				TIRED OF SUBSIDIZING PROPRIETARY AI?
+			</h2>
 	<h1
 		class="-translate-y-4 animate-fade-in text-balance bg-gradient-to-br from-black from-30% to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent opacity-0 [--animation-delay:200ms] dark:from-white dark:to-white/40 sm:text-6xl md:text-7xl lg:text-8xl"
 	>
