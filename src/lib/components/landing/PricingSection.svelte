@@ -104,19 +104,22 @@
 			</p>
 		</div> 	
 
-		<div class="flex w-full items-center justify-center space-x-2"> <Switch 
-				on:click= {
-				() => {
+<div class="flex w-full items-center justify-center space-x-2">
+			<Switch
+				on:click={() => {
 					interval = interval === 'month' ? 'year' : 'month';
-					}
-				}id="interval"
-				/>
+				}}
+				id="interval"
+			/>
 			<span>Annual</span>
 			<span
-			class="inline-block whitespace-nowrap rounded-full bg-black px-2.5 py-1 text-[11px] font-semibold uppercase leading-5 tracking-wide text-white dark:bg-white dark:text-black"
-			>2 MONTHS FREE ✨</span></div>
+				class="inline-block whitespace-nowrap rounded-full bg-black px-2.5 py-1 text-[11px] font-semibold uppercase leading-5 tracking-wide text-white dark:bg-white dark:text-black"
+			>
+				2 MONTHS FREE ✨
+			</span>
+		</div>	
 
-		<div class="mx-auto grid w-full flex-col justify-center gap-4 sm:grid-cols-2 lg:grid-cols-4">
+<div class="mx-auto grid w-full flex-col justify-center gap-4 sm:grid-cols-2 lg:grid-cols-4">
 			{#each productPrices as price, id}
 				<div
 					class={cn(
