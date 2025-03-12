@@ -71,12 +71,12 @@
 
 <footer>
 
-	<div class="mx-auto w-full max-w-screen-xl xl:pb-2">
-
 <AnimatedShinyText class="inline-flex items-center justify-center">
 			<span>✨ Introducing Svee UI Template</span>
 			
 		</AnimatedShinyText>
+
+	<div class="mx-auto w-full max-w-screen-xl xl:pb-2">
 
 		<div class="gap-4 p-4 px-8 py-16 sm:pb-16 md:flex md:justify-between">
 			<div class="mb-12 flex flex-col gap-4">
