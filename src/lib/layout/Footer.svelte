@@ -71,9 +71,13 @@
 
 <footer>
 <div>
+<body>
+<center>
 <AnimatedShinyText class="inline-flex items-center justify-center">
 			<span>“If you do not change the direction, you may end up where you are heading.” Lao Tzu</span>
 		</AnimatedShinyText>
+	</center>
+	</body>
 	</div>
 
 	<div class="mx-auto w-full max-w-screen-xl xl:pb-2">
