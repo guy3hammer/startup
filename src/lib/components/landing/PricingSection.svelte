@@ -99,7 +99,7 @@
 			</h3>
 
 			<p class="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-				Torgen's <i>OSAI-First</i> approach to DevSecOps modernization is driven by 100% US-based consultants who average 20+ years' experience across finance, healthcare, media, manufacturing, logisticss, and technology sectors.
+				Torgen's <i>OSAI-first</i> approach to DevSecOps modernization is driven by 100% US-based consultants who average 20+ years' experience across finance, healthcare, media, manufacturing, logisticss, and technology sectors.
 			</p>
 			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions</h4>
 		</div> 	
