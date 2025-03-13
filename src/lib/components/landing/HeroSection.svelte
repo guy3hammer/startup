@@ -12,6 +12,8 @@
 	import NotionSvg from '$lib/imgs/Notion.svg';
 
 	// Images
+	import AdminDarkImg from '$lib/imgs/admin-dark.png';
+	import AdminLightImg from '$lib/imgs/admin-light.png';
 	import FixDarkImg from '$lib/imgs/fix-dark.png';
 	import FixLightImg from '$lib/imgs/fix-light.png';
 	let inView = false;
@@ -141,13 +143,13 @@
 			/>
 
 			<img
-				src={FixDarkImg}
-				alt="FixDarkImage"
+				src={AdminDarkImg}
+				alt="AdminDarkImage"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
-				src={FixLightImg}
-				alt="FixLightImage"
+				src={AdminLightImg}
+				alt="AdminLightImage"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
