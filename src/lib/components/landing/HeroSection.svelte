@@ -69,6 +69,9 @@
 			<h2 class="text-center text-sm font-semibold text-gray-600">
 				to your specific business needs and objectives
 			</h2>
+		<br>
+		<br>
+		<br>
 			<div class="mt-6">
 				<ul
 					class="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white"
@@ -141,11 +144,17 @@
 			</div>
 		</div>
 	</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 			<h2 class="text-center text-sm font-semibold text-gray-600">
 				Liberate your team to focus on higher value activities 
 			</h2>
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				that accelerate your roadmap and competitive advantage
+				that accelerate innovation and competitiveness
 			</h2>
 </section>
 
