@@ -114,9 +114,6 @@
 
 <section id="hero" class="relative mx-auto mt-32 max-w-7xl px-6 text-center md:px-8">	
 
-		<h2 class="text-center text-sm font-semibold text-gray-600">
-				CREATE POWERFUL FLEXIBLE AUTOMATED WORKFLOWS IN SECONDS
-			</h2>
 	<div
 		use:inview={{
 			unobserveOnEnter: true,
@@ -151,13 +148,7 @@
 			/>
 		</div>
 	</div>
-</section>
 
-<section id="hero" class="relative mx-auto mt-32 max-w-7xl px-6 text-center md:px-8">	
-
-		<h2 class="text-center text-sm font-semibold text-gray-600">
-				CREATE POWERFUL FLEXIBLE AUTOMATED WORKFLOWS IN SECONDS
-			</h2>
 	<div
 		use:inview={{
 			unobserveOnEnter: true,
