@@ -12,8 +12,6 @@
 	import NotionSvg from '$lib/imgs/Notion.svg';
 	import GemmaSvg from '$lib/imgs/gemma-logo.svg';
 	import n8nSvg from '$lib/imgs/n8n-logo.svg';
-
-	// Images
 	import AppopsDarkImg from '$lib/imgs/appops-dark.png';
 	import AppopsLightImg from '$lib/imgs/appops-light.png';
 	import ITopsDarkImg from '$lib/imgs/itops-dark.png';
