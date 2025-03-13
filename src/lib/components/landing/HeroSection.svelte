@@ -44,14 +44,10 @@
 				class="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5"
 			/>
 		</AnimatedShinyText>
-		<div>
-		<p>
-		</p>
-		<p>
-		</p>
-		<p>
-		</p>
-		</div>
+		<br>
+		<br>
+		<br>
+		<br>
 </section>
 
 <section id="clients" class="mx-auto max-w-7xl px-6 text-center md:px-8">
