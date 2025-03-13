@@ -10,7 +10,7 @@
 	import UberSvg from '$lib/imgs/Uber.svg';
 	import MicrosoftSvg from '$lib/imgs/Microsoft.svg';
 	import NotionSvg from '$lib/imgs/Notion.svg';
-	import GemmaSvg from '$lib/imgs/Gemma.svg';
+	import GemmaSvg from '$lib/imgs/gemma-logo.svg';
 
 	// Images
 	import ITopsDarkImg from '$lib/imgs/itops-dark.png';
@@ -109,6 +109,15 @@
 						<img
 							alt="Notion"
 							src={NotionSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+					<li>
+						<img
+							alt="Gemma"
+							src={GemmaSvg}
 							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
 							width={28}
 							height={8}
