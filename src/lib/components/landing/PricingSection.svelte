@@ -93,15 +93,15 @@
 <section id="pricing">
 	<div class="mx-auto flex max-w-screen-xl flex-col gap-8 px-4 py-14 md:px-8">
 		<div class="mx-auto max-w-5xl text-center">
-			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Pricing</h4>
-
-			<h2 class="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
-				Flexible Service Models 
-			</h2>
+			
+			<h3 class="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
+				World Class Resources
+			</h3>
 
 			<p class="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-				Torgen's world-class AI consultants have 20+ years of experience on average across multiple industry sectors.
+				Torgen's <i>OSAI-First</i> approach to DevSecOps modernization is driven by 100% US-based consultants who average 20+ years' experience across finance, healthcare, media, manufacturing, logisticss, and technology sectors.
 			</p>
+			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions</h4>
 		</div> 	
 
 <div class="flex w-full items-center justify-center space-x-2">
