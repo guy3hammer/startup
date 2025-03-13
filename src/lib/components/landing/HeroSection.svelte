@@ -141,6 +141,12 @@
 			</div>
 		</div>
 	</div>
+			<h2 class="text-center text-sm font-semibold text-gray-600">
+				Liberate your team to focus on higher value activities 
+			</h2>
+			<h2 class="text-center text-sm font-semibold text-gray-600">
+				that accelerate your roadmap and competitive advantage
+			</h2>
 </section>
 
 
