@@ -154,7 +154,7 @@
 				Liberate your team to focus on higher value activities 
 			</h2>
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				that spur efficiency, innovation and competitiveness
+				that spur innovation and competitiveness
 			</h2>
 </section>
 
