@@ -10,6 +10,7 @@
 	import UberSvg from '$lib/imgs/Uber.svg';
 	import MicrosoftSvg from '$lib/imgs/Microsoft.svg';
 	import NotionSvg from '$lib/imgs/Notion.svg';
+	import GemmaSvg from '$lib/imgs/Gemma.svg';
 
 	// Images
 	import ITopsDarkImg from '$lib/imgs/itops-dark.png';
