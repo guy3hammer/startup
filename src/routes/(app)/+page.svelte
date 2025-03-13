@@ -26,6 +26,7 @@
 </svelte:head>
 <HeroSection />
 <ClientSection />
+<ClientSection />
 <SphereMask />
 <PricingSection />
 <CtaSection />
