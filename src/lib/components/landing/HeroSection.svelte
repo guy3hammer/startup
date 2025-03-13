@@ -62,10 +62,10 @@
 	<div class="py-14">
 		<div class="mx-auto max-w-screen-xl px-4 md:px-8">
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				TAILOR THE <i>NEW GEN</i> OSAI MODELS & TOOLS
+				Tailor the <i>New Gen</i> OSAI models & tools
 			</h2>
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				FOR YOUR SPECIFIC BUSINESS NEEDS AND DATA TYPES
+				for your specific business needs and objectives
 			</h2>
 			<div class="mt-6">
 				<ul
