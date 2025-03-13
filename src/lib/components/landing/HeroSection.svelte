@@ -45,12 +45,12 @@
 			/>
 		</AnimatedShinyText>
 		<div>
-		<li>
-		</li>
-		<li>
-		</li>
-		<li>
-		</li>
+		<p>
+		</p>
+		<p>
+		</p>
+		<p>
+		</p>
 		</div>
 </section>
 
