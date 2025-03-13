@@ -56,6 +56,14 @@
 			<div class="ml-auto flex h-full items-center">
 				<Button variant="secondary" class="mr-6 text-sm" href="/signup">Contact</Button>
 			</div>
+			<button class="ml-6 md:hidden" use:toggleOverflowHidden>
+				<span class="sr-only">Toggle menu</span>
+				{#if hamburgerMenuIsOpen}
+					<XIcon  strokeWidth={1.4} class='text-gray-300'/>
+				{:else}
+					<AlignJustify strokeWidth={1.4} class='text-gray-300' />
+				{/if}
+			</button>
 			
 		</div>
 	<!-- {/if} -->
