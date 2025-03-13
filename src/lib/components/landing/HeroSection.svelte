@@ -65,7 +65,7 @@
 				Tailor the <i>New Gen</i> OSAI models & tools
 			</h2>
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				for your specific business needs and objectives
+				to your specific business needs and objectives
 			</h2>
 			<div class="mt-6">
 				<ul
