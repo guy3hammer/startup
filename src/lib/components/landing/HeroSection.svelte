@@ -12,8 +12,8 @@
 	import NotionSvg from '$lib/imgs/Notion.svg';
 
 	// Images
-	import HeroDarkImg from '$lib/imgs/fix-dark.png';
-	import HeroLightImg from '$lib/imgs/fix-light.png';
+	import FixDarkImg from '$lib/imgs/fix-dark.png';
+	import FixLightImg from '$lib/imgs/fix-light.png';
 	let inView = false;
 	const handleChange = ({ detail }: CustomEvent<ObserverEventDetails>) => {
 		// console.log(detail);
