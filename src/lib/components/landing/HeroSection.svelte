@@ -12,8 +12,8 @@
 	import NotionSvg from '$lib/imgs/Notion.svg';
 
 	// Images
-	import HeroDarkImg from '$lib/imgs/hero-dark.png';
-	import HeroLightImg from '$lib/imgs/hero-light.png';
+	import HeroDarkImg from '$lib/imgs/fix-dark.png';
+	import HeroLightImg from '$lib/imgs/fix-light.png';
 	let inView = false;
 	const handleChange = ({ detail }: CustomEvent<ObserverEventDetails>) => {
 		// console.log(detail);
@@ -141,13 +141,13 @@
 			/>
 
 			<img
-				src={HeroDarkImg}
-				alt="HeroDarkImage"
+				src={FixDarkImg}
+				alt="FixDarkImage"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
-				src={HeroLightImg}
-				alt="HeroLightImage"
+				src={FixLightImg}
+				alt="FixLightImage"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
@@ -176,13 +176,13 @@
 			/>
 
 			<img
-				src={HeroDarkImg}
-				alt="HeroDarkImage"
+				src={FixDarkImg}
+				alt="FixDarkImage"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
-				src={HeroLightImg}
-				alt="HeroLightImage"
+				src={FixLightImg}
+				alt="FixLightImage"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
