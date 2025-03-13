@@ -12,10 +12,12 @@
 	import NotionSvg from '$lib/imgs/Notion.svg';
 
 	// Images
-	import AdminDarkImg from '$lib/imgs/admin-dark.png';
-	import AdminLightImg from '$lib/imgs/admin-light.png';
-	import FixDarkImg from '$lib/imgs/fix-dark.png';
-	import FixLightImg from '$lib/imgs/fix-light.png';
+	import ITopsDarkImg from '$lib/imgs/itops-dark.png';
+	import ITopsLightImg from '$lib/imgs/itops-light.png';
+	import SecopsDarkImg from '$lib/imgs/secops-dark.png';
+	import SecopsLightImg from '$lib/imgs/secops-light.png';
+	import DevopsDarkImg from '$lib/imgs/devops-dark.png';
+	import DevopsLightImg from '$lib/imgs/devops-light.png';
 	let inView = false;
 	const handleChange = ({ detail }: CustomEvent<ObserverEventDetails>) => {
 		// console.log(detail);
@@ -143,13 +145,48 @@
 			/>
 
 			<img
-				src={AdminDarkImg}
-				alt="AdminDarkImage"
+				src={ITopsDarkImg}
+				alt="ITopsDarkImage"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
-				src={AdminLightImg}
-				alt="AdminLightImage"
+				src={ITopsLightImg}
+				alt="ITopsLightImage"
+				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
+			/>
+		</div>
+	</div>
+
+<div
+		use:inview={{
+			unobserveOnEnter: true,
+			rootMargin: '-100px'
+		}}
+		on:inview_change={handleChange}
+		class="relative mt-32 animate-fade-up opacity-0 [--animation-delay:400ms] [perspective:2000px] after:absolute after:inset-0 after:z-50 after:[background:linear-gradient(to_top,hsl(var(--background))_30%,transparent)]"
+	>
+
+		<div
+			class="rounded-xl border border-white/10 bg-white bg-opacity-[0.01] before:absolute before:bottom-1/2 before:left-0 before:top-0 before:size-full before:opacity-0 before:[background-image:linear-gradient(to_bottom,var(--color-one),var(--color-one),transparent_40%)] before:[filter:blur(180px)] {inView
+				? 'before:animate-image-glow'
+				: ''}"
+		>
+			<BorderBeam
+				size={200}
+				duration={12}
+				delay={0}
+				colorFrom="var(--color-one)"
+				colorTo="var(--color-two)"
+			/>
+
+			<img
+				src={SecopsDarkImg}
+				alt="SecopsDarkImage"
+				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
+			/>
+			<img
+				src={SecopsLightImg}
+				alt="SecopsLightImage"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
@@ -178,13 +215,13 @@
 			/>
 
 			<img
-				src={FixDarkImg}
-				alt="FixDarkImage"
+				src={DevopsDarkImg}
+				alt="DevopsDarkImage"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
-				src={FixLightImg}
-				alt="FixLightImage"
+				src={DevopsLightImg}
+				alt="DevopsLightImage"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
