@@ -11,6 +11,7 @@
 	import MicrosoftSvg from '$lib/imgs/Microsoft.svg';
 	import NotionSvg from '$lib/imgs/Notion.svg';
 	import GemmaSvg from '$lib/imgs/gemma-logo.svg';
+	import n8nSvg from '$lib/imgs/n8n-logo.svg';
 
 	// Images
 	import ITopsDarkImg from '$lib/imgs/itops-dark.png';
@@ -118,6 +119,15 @@
 						<img
 							alt="Gemma"
 							src={GemmaSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+					<li>
+						<img
+							alt="n8n-logo"
+							src={n8nSvg}
 							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
 							width={28}
 							height={8}
