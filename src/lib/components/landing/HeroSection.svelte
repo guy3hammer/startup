@@ -41,7 +41,7 @@
 	<p
 		class="mb-12 -translate-y-4 animate-fade-in text-balance text-lg tracking-tight text-gray-400 opacity-0 [--animation-delay:400ms] md:text-xl"
 	>
-		Retake control of your data, escape lock-in, and empower your team
+		Secure your data, escape lock-in, and empower your team
 		<br class="hidden md:block" />
 		{' '}
 		with cutting-edge AI use cases <i>for pennies on the dollar</i>
