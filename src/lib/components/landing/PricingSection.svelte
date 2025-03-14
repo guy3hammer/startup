@@ -32,10 +32,7 @@
 				</div>
 
 			<li><strong>AI Security Assessment</strong> -e.g., data security, identity and access, activity logging, governance and regulatory compliance.</li>
-			<li><strong></strong></li>
-			<li><strong></strong></li>
-			<li><strong></strong></li>
-			</p>
+
 		</div> 	
 
 </section>
