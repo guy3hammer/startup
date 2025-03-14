@@ -24,7 +24,8 @@
 <br>
 			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes: </h4>
 			<p>
-			<li><strong>AI Strategy Assessment</strong> -e.g., alignment with future state drivers, use case productivity/cost-savings analysis.</li>
+			<li><strong>AI Strategy Assessment</strong></li>
+			<p>e.g., alignment with future state drivers, use case productivity/cost-savings analysis.</p>
 			<li><strong>AI Security Assessment</strong> -e.g., data security, identity and access, activity logging, governance and regulatory compliance.</li>
 			<li><strong></strong></li>
 			<li><strong></strong></li>
