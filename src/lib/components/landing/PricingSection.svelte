@@ -25,12 +25,14 @@
 <br>
 			<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes </h4></div>
 				<br>
+				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
 				<span><h2><strong>AI Strategy Assessment</strong></h2></span>
 				</AnimatedShinyText>
 				</div>
 				<br>
-				<div><p><span><i>e.g., alignment with future state drivers, use case productivity/cost-savings analysis, roadmap</i></span></p>
+				<div><p><span><i>e.g., alignment with future state drivers, use case</i></span></p>
+				<div><p><span><i>productivity/cost-savings analysis, roadmap</i></span></p>
 				<br>
 				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
