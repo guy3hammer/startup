@@ -185,20 +185,7 @@
 			</div>
 		</div>
 	</div>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-			<h2 class="text-center text-sm font-semibold text-gray-600">
-				Liberate your team to focus on higher value activities 
-			</h2>
-			<h2 class="text-center text-sm font-semibold text-gray-600">
-				that spur innovation and competitiveness
-			</h2>
 </section>
-
 
 <section id="hero" class="relative mx-auto mt-32 max-w-7xl px-6 text-center md:px-8">	
 
