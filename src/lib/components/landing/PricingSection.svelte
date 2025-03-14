@@ -67,7 +67,7 @@
 				<span><h2><strong>AI Innovation Lab</strong></h2></span>
 				</AnimatedShinyText>
 				</div><br>
-				<div><p><span><i>private managed AI innovation environment for model</i></span></p>
+				<div><p><span><i>private managed AI testing environment for new model</i></span></p>
 				<div><p><span><i>benchmarking, use case testing and rapid prototyping</i></span></p>
 
 		</div> 	
