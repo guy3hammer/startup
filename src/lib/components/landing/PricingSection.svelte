@@ -17,22 +17,28 @@
 			</h3>
 
 			<p class="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-				Torgen's <i>Open-Source-first</i> approach to AI transformation is driven by US-based consultants with proven track records for innovation spanning finance, healthcare, manufacturing, logistics, digital media and SaaS.
+				Torgen's <i>Open-Source-first</i> approach to AI transformation is driven by US-based consultants with proven track records for innovation spanning finance, healthcare, manufacturing, logistics, digital media and SaaS
 			</p>
 <br>
 <br>
 <br>
 <br>
-			<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes: </h4></div>
+			<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes </h4></div>
 				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
-				<span><h2>AI Strategy Assessment</h2></span>
+				<span><h2><strong>AI Strategy Assessment</strong></h2></span>
 				</AnimatedShinyText>
 				</div>
-				<div><p><span><i>e.g., alignment with future state drivers, use case productivity/cost-savings analysis.</i></span></p>
+				<br>
+				<div><p><span><i>e.g., alignment with future state drivers, use case productivity/cost-savings analysis, roadmap</i></span></p>
+				<br>
+				<br>
+				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<span><h2>AI Security Assessment</h2></span>
+				</AnimatedShinyText>
 				</div>
-
-			<li><strong>AI Security Assessment</strong> -e.g., data security, identity and access, activity logging, governance and regulatory compliance.</li>
+				<br>
+				<div><p><span><i>e.g., data security, identity/access, logging, governance, regulatory compliance, risk/gap analysis</i></span></p>
 
 		</div> 	
 
