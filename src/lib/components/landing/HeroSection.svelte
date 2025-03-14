@@ -319,12 +319,12 @@
 
 			<img
 				src={DevopsDarkImg}
-				alt="DevopsDarkImage"
+				alt="DevOps - Refactor and modernize aging code"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
 				src={DevopsLightImg}
-				alt="DevopsLightImage"
+				alt="DevOps - Refactor and modernize aging code"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
