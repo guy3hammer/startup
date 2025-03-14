@@ -28,47 +28,47 @@
 				<br>
 				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Workshop/Bootcamp</strong></h2></span>
+				<span><h2><strong>AI Workshop/Bootcamp</strong></h2></span>
 				</AnimatedShinyText>
 				</div><br>
-				<div><p><span><i>e.g., practical open source centric use case training</i></span></p>
-				<div><p><span><i>for technical and non-technical audiences</i></span></p>
+				<div><p><span><i>practical open source centric use case training for</i></span></p>
+				<div><p><span><i>technical and non-technical audiences</i></span></p>
 
 				<br>
 				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Strategy Assessment</strong></h2></span>
+				<span><h2><strong>AI Strategy Consulting</strong></h2></span>
 				</AnimatedShinyText>
 				</div><br>
-				<div><p><span><i>e.g., alignment with future state drivers, use case</i></span></p>
+				<div><p><span><i>alignment with future state drivers, use case</i></span></p>
 				<div><p><span><i>productivity/cost-savings analysis, roadmap</i></span></p>
 				
-				<br>
-				<br>
-				<div><AnimatedShinyText class="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Security Assessment</strong></h2></span>
-				</AnimatedShinyText>
-				</div><br>
-				<div><p><span><i>e.g., data security, identity/access, logging, governance,</i></span></p>
-				<div><p><span><i>regulatory compliance, risk/gap analysis</i></span></p>
-
-				<br>
-				<br>
-				<div><AnimatedShinyText class="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Project Consulting</strong></h2></span>
-				</AnimatedShinyText>
-				</div><br>
-				<div><p><span><i>e.g., data security, identity/access, logging, governance,</i></span></p>
-				<div><p><span><i>regulatory compliance, risk/gap analysis</i></span></p>
-
 				<br>
 				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
 				<span><h2><strong>AI Security Assessment</strong></h2></span>
 				</AnimatedShinyText>
 				</div><br>
-				<div><p><span><i>e.g., data security, identity/access, logging, governance,</i></span></p>
+				<div><p><span><i>data security, identity/access, logging, governance,</i></span></p>
 				<div><p><span><i>regulatory compliance, risk/gap analysis</i></span></p>
+
+				<br>
+				<br>
+				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<span><h2><strong>AI Project Consulting</strong></h2></span>
+				</AnimatedShinyText>
+				</div><br>
+				<div><p><span><i>mobile/ai-first app dev; predictive modeling; data viz;</i></span></p>
+				<div><p><span><i>legacy code modernization, re-arch, re-platform, migration</i></span></p>
+
+				<br>
+				<br>
+				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<span><h2><strong>AI Managed Services</strong></h2></span>
+				</AnimatedShinyText>
+				</div><br>
+				<div><p><span><i>private managed AI innovation lab for</i></span></p>
+				<div><p><span><i>benchmarking testing and rapid prototyping</i></span></p>
 
 		</div> 	
 
