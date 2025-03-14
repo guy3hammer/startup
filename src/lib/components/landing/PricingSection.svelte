@@ -17,7 +17,7 @@
 			</h3>
 
 			<p class="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-				Torgen's <i>Open-Source-first</i> approach to AI transformation is led by 100% US-based consultants with proven innovation track records across finance, healthcare, manufacturing, logisticss, digital media and SaaS.
+				Torgen's <i>Open-Source-first</i> approach to AI transformation is led by 100% US-based consultants with proven track records for innovation spanning finance, healthcare, manufacturing, logisticss, digital media and SaaS.
 			</p>
 <br>
 <br>
