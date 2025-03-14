@@ -68,10 +68,10 @@
 	<div class="py-14">
 		<div class="mx-auto max-w-screen-xl px-4 md:px-8">
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				Tailor <i>New Gen</i> OSAI models and workflow automation
+				Tailor <i>New Gen</i> OSAI models and agentic workflow
 			</h2>
 			<h2 class="text-center text-sm font-semibold text-gray-600">
-				tools to your specific business needs and data
+				automation tools to your specific business needs
 			</h2>
 		<br>
 		<br>
