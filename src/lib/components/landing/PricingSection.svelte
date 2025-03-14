@@ -16,9 +16,20 @@
 			</h3>
 
 			<p class="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-				Torgen's <i>OSAI-first</i> approach to enterprise modernization is driven by 100% US-based consultants averaging 20+ years' experience across finance, healthcare, manufacturing, logisticss, digital media and SaaS.
+				Torgen's <i>OSAI-first</i> approach to enterprise modernization is led by 100% US-based consultants averaging 20+ years' experience across finance, healthcare, manufacturing, logisticss, digital media and SaaS.
 			</p>
-			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions</h4>
+<br>
+<br>
+<br>
+<br>
+			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes: </h4>
+			<p>
+			<li><strong>AI Strategy Assessment</strong> -e.g., alignment with future state drivers, use case productivity/cost-savings analysis.</li>
+			<li><strong>AI Security Assessment</strong> -e.g., data security, identity and access, activity logging, governance and regulatory compliance.</li>
+			<li><strong></strong></li>
+			<li><strong></strong></li>
+			<li><strong></strong></li>
+			</p>
 		</div> 	
 
 </section>
