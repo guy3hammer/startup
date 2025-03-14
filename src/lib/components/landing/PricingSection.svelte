@@ -5,89 +5,6 @@
 	import { cn } from '$lib/utils';
 	import { fly } from 'svelte/transition';
 
-	type Interval = 'month' | 'year';
-
-	export function toHumanPrice(price: number, decimals: number = 2) {
-		return Number(price / 100).toFixed(decimals);
-	}
-	let productPrices = [
-		{
-			id: 'price_1',
-			name: 'Basic',
-			description: 'A basic plan for startups and individual users',
-			features: [
-				'AI-powered analytics',
-				'Basic support',
-				'5 projects limit',
-				'Access to basic AI tools'
-			],
-			monthlyPrice: 1000,
-			yearlyPrice: 10000,
-			isMostPopular: false
-		},
-		{
-			id: 'price_2',
-			name: 'Premium',
-			description: 'A premium plan for growing businesses',
-			features: [
-				'Advanced AI insights',
-				'Priority support',
-				'Unlimited projects',
-				'Access to all AI tools',
-				'Custom integrations'
-			],
-			monthlyPrice: 2000,
-			yearlyPrice: 20000,
-			isMostPopular: true
-		},
-		{
-			id: 'price_5',
-			name: 'Enterprise',
-			description: 'An enterprise plan with advanced features for large organizations',
-			features: [
-				'Custom AI solutions',
-				'24/7 dedicated support',
-				'Unlimited projects',
-				'Access to all AI tools',
-				'Custom integrations',
-				'Data security and compliance'
-			],
-			monthlyPrice: 5000,
-			yearlyPrice: 50000,
-			isMostPopular: false
-		},
-		{
-			id: 'price_6',
-			name: 'Ultimate',
-			description: 'The ultimate plan with all features for industry leaders',
-			features: [
-				'Bespoke AI development',
-				'White-glove support',
-				'Unlimited projects',
-				'Priority access to new AI tools',
-				'Custom integrations',
-				'Highest data security and compliance'
-			],
-			monthlyPrice: 8000,
-			yearlyPrice: 80000,
-			isMostPopular: false
-		}
-	];
-	let interval: Interval = 'month';
-	let isLoading = false;
-	let index = '';
-	let onSubscribeClick = async (priceId: string) => {
-		index = priceId;
-		isLoading = true;
-		// Simulate API call
-		await new Promise((resolve) => setTimeout(resolve, 1000));
-		isLoading = false;
-	};
-	/*
-    onCheckedChange={(checked) => {
-                setInterval(checked ? 'year' : 'month')
-             }}
-     */
 </script>
 
 <section id="pricing">
@@ -104,20 +21,6 @@
 			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions</h4>
 		</div> 	
 
-<div class="flex w-full items-center justify-center space-x-2">
-			<Switch
-				on:click={() => {
-					interval = interval === 'month' ? 'year' : 'month';
-				}}
-				id="interval"
-			/>
-			<span>Annual</span>
-			<span
-				class="inline-block whitespace-nowrap rounded-full bg-black px-2.5 py-1 text-[11px] font-semibold uppercase leading-5 tracking-wide text-white dark:bg-white dark:text-black"
-			>
-				2 MONTHS FREE ✨
-			</span>
-		</div>	
 
 <div class="mx-auto grid w-full flex-col justify-center gap-4 sm:grid-cols-2 lg:grid-cols-4">
 			{#each productPrices as price, id}
