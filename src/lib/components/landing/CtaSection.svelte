@@ -107,7 +107,7 @@
 						<HeartHandshake class="mx-auto size-16 text-black dark:text-white lg:size-24" />
 					</div>
 					<div class="z-10 mt-4 flex flex-col items-center text-center text-primary">
-						<h1 class="text-3xl font-bold lg:text-4xl">TIRED OF SUBSIDIZING PROPRIETARY AI?</h1>
+						<h1 class="text-3xl font-bold lg:text-4xl">ACCELERATE YOUR ROADMAP</h1>
 						<Button size="lg" variant="outline" href="#" class="group mt-4 rounded-[2rem] px-6">
 							Schedule Free Consultation
 							<ChevronRight
