@@ -213,12 +213,12 @@
 
 			<img
 				src={AppopsDarkImg}
-				alt="AppopsDarkImage"
+				alt="AppOps- Enrich enterprise applications"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
 				src={AppopsLightImg}
-				alt="AppopsLightImage"
+				alt="AppOps - Enrich enterprise applications"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
@@ -249,12 +249,12 @@
 
 			<img
 				src={ITopsDarkImg}
-				alt="ITopsDarkImage"
+				alt="IT Operations - Reduce tedious admin tasks"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
 				src={ITopsLightImg}
-				alt="ITopsLightImage"
+				alt="IT Operations - Reduce tedious admin tasks"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
@@ -284,12 +284,12 @@
 
 			<img
 				src={SecopsDarkImg}
-				alt="SecopsDarkImage"
+				alt="SecOps - Find and fix security issues"
 				class="relative hidden size-full rounded-[inherit] border object-contain dark:block"
 			/>
 			<img
 				src={SecopsLightImg}
-				alt="SecopsLightImage"
+				alt="SecOps - Find and fix security issues"
 				class="relative block size-full rounded-[inherit] border object-contain dark:hidden"
 			/>
 		</div>
