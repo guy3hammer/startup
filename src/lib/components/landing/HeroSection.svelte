@@ -11,6 +11,10 @@
 	import MicrosoftSvg from '$lib/imgs/Microsoft.svg';
 	import NotionSvg from '$lib/imgs/Notion.svg';
 	import GemmaSvg from '$lib/imgs/gemma-logo.svg';
+	import BertSvg from '$lib/imgs/bert-logo.svg';
+	import DockerSvg from '$lib/imgs/docker-logo.svg';
+	import PytorchSvg from '$lib/imgs/pytorch-logo.svg';
+	import TensorflowSvg from '$lib/imgs/tensorflow-logo.svg';
 	import n8nSvg from '$lib/imgs/n8n-logo.svg';
 	import AppopsDarkImg from '$lib/imgs/appops-dark.png';
 	import AppopsLightImg from '$lib/imgs/appops-light.png';
@@ -131,6 +135,43 @@
 							height={8}
 						/>
 					</li>
+					<li>
+						<img
+							alt="Bert-logo"
+							src={BertSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+					<li>
+						<img
+							alt="Docker-logo"
+							src={DockerSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+					<li>
+						<img
+							alt="Pytorch"
+							src={PytorchSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+					<li>
+						<img
+							alt="Tensorflow"
+							src={TensorflowSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+
 					<li>
 						<img
 							alt="n8n-logo"
