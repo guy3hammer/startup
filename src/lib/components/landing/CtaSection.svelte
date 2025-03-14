@@ -107,10 +107,9 @@
 						<HeartHandshake class="mx-auto size-16 text-black dark:text-white lg:size-24" />
 					</div>
 					<div class="z-10 mt-4 flex flex-col items-center text-center text-primary">
-						<h1 class="text-3xl font-bold lg:text-4xl">STOP WASTING TIME</h1>
-						<p class="mt-2">Start implementing your OSAI-Fist strategy today.</p>
+						<h1 class="text-3xl font-bold lg:text-4xl">TIRED OF SUBSIDIZING PROPRIETARY AI?</h1>
 						<Button size="lg" variant="outline" href="#" class="group mt-4 rounded-[2rem] px-6">
-							Engage OSAI Advisor
+							Schedule Free Consultation
 							<ChevronRight
 								class="ml-1 size-4 transition-all duration-300 ease-out group-hover:translate-x-1"
 							/>
