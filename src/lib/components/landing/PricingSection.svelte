@@ -23,10 +23,14 @@
 <br>
 <br>
 <br>
-			<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes: </h4>
-			<p>
-			<li><strong>AI Strategy Assessment</strong></li>
-			<p>e.g., alignment with future state drivers, use case productivity/cost-savings analysis.</p>
+			<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes: </h4></div>
+				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<span><strong>AI Strategy Assessment</strong></span>
+				</AnimatedShinyText>
+				</div>
+				<div><p><span><i>e.g., alignment with future state drivers, use case productivity/cost-savings analysis.</i></span></p>
+				</div>
+
 			<li><strong>AI Security Assessment</strong> -e.g., data security, identity and access, activity logging, governance and regulatory compliance.</li>
 			<li><strong></strong></li>
 			<li><strong></strong></li>
