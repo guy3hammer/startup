@@ -17,15 +17,16 @@
 			</h3>
 
 			<p class="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-				Torgen's <i>OSAI-first</i> approach to enterprise modernization is led by 100% US-based consultants averaging 20+ years' experience across finance, healthcare, manufacturing, logisticss, digital media and SaaS.
+				Torgen's <i>Open-Source-first</i> approach to AI transformation is led by 100% US-based consultants averaging 20+ years' experience across finance, healthcare, manufacturing, logisticss, digital media and SaaS.
 			</p>
 <br>
 <br>
 <br>
 <br>
 			<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes: </h4></div>
+				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
-				<span><strong>AI Strategy Assessment</strong></span>
+				<span><h3>AI Strategy Assessment</h3></span>
 				</AnimatedShinyText>
 				</div>
 				<div><p><span><i>e.g., alignment with future state drivers, use case productivity/cost-savings analysis.</i></span></p>
