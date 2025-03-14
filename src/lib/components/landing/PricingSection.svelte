@@ -26,7 +26,7 @@
 			<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes: </h4></div>
 				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
-				<span><h3>AI Strategy Assessment</h3></span>
+				<span><h2>AI Strategy Assessment</h2></span>
 				</AnimatedShinyText>
 				</div>
 				<div><p><span><i>e.g., alignment with future state drivers, use case productivity/cost-savings analysis.</i></span></p>
