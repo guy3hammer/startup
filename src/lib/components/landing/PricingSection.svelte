@@ -64,7 +64,7 @@
 				<br>
 				<br>
 				<div><AnimatedShinyText class="inline-flex items-center justify-center">
-				<span><h2><strong>AI Managed Services</strong></h2></span>
+				<span><h2><strong>AI Innovation Lab</strong></h2></span>
 				</AnimatedShinyText>
 				</div><br>
 				<div><p><span><i>private managed AI innovation lab for</i></span></p>
