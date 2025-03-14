@@ -40,7 +40,10 @@
 				</AnimatedShinyText>
 				</div>
 				<br>
-				<div><p><span><i>e.g., data security, identity/access, logging, governance, regulatory compliance, risk/gap analysis</i></span></p>
+				<div><p><span><i>e.g., data security, identity/access, logging, governance,</i></span></p>
+				<div><p><span><i>regulatory compliance, risk/gap analysis</i></span></p>
+
+
 
 		</div> 	
 
